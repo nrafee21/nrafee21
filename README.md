@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Nadir and I am a student at UBC.
 
 <!--
 **nrafee21/nrafee21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
